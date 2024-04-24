@@ -52,4 +52,12 @@ public class TriangleClassifierTest {
     public void testRightTriangle2() {
         assertEquals("Right Triangle", TriangleClassifier.classifyTriangle(5, 3, 4));
     }
+
+    @org.junit.Test
+    public void testClassifyTriangle() {
+    }
+
+    @org.junit.Test
+    public void testMain() {
+    }
 }
